@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-silva-6a56a11ab)
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Typescript
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="javascript"src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
